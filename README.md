@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Banid Prajapati</h1>
 <h3 align="center">A passionate frontend developer with some knowledge on backend.</h3>
 
-- 🔭 I’m currently working on [Hostel management system](https://github.com/banidprajapati/HostelStays-HostelManagementSystem)
+- 🔭 I’m currently working in Rooster Logic as a Python Developer
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning Data Analysis and Machine Language
 
 - 📫 How to reach me **banidprajapati98@gmail.com**
 
