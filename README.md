@@ -54,23 +54,10 @@ I build things that move the needle — data-driven systems, ML pipelines, and p
 
 ---
 
-### 🚀 What I’m Building & Learning
-I operate with a build-first mindset. Recently, I’ve been working on:
-
-- Real-world ML workflows using GPUs  
-- Recommendation systems (content-based + collaborative)  
-- RAG pipelines using LlamaIndex + Pinecone  
-- Computer vision projects for classification and detection  
-- Data-centric projects that explore Nepal-specific problems  
-
-I focus on shipping — not just learning.
-
----
-
 ### 📊 GitHub Stats
-<p>
+<!-- <p>
 <img src="https://github-readme-stats.vercel.app/api?username=banidprajapati&show_icons=true&theme=default" />
-</p>
+</p> -->
 
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=banidprajapati&theme=default" />
