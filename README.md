@@ -53,12 +53,3 @@ I build things that move the needle — data-driven systems, ML pipelines, and p
 </p>
 
 ---
-
-### 📊 GitHub Stats
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=banidprajapati&theme=default" />
-</p>
-
-<!-- <p>
-<img src="https://github-readme-stats.vercel.app/api?username=banidprajapati&show_icons=true&theme=default" />
-</p> -->
