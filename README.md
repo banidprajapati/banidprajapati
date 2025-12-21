@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Banid Prajapati</h1>
-<h3 align="center">Python Developer | Machine Learning & Data Science Practitioner</h3>
+<h3 align="center">Python Developer | Machine Learning & Data Science</h3>
 
 I build things that move the needle — data-driven systems, ML pipelines, and practical tools that solve real problems. My work lives at the intersection of Python, machine learning, and high-performance engineering. I’m constantly experimenting, refining, and pushing my technical edge.
 
